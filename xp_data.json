@@ -1,0 +1,22 @@
+{
+    "STR": {
+        "xp": 0,
+        "level": 1,
+        "gold_stars": 0
+    },
+    "INT": {
+        "xp": 0,
+        "level": 1,
+        "gold_stars": 0
+    },
+    "DIS": {
+        "xp": 0,
+        "level": 1,
+        "gold_stars": 0
+    },
+    "CRE": {
+        "xp": 1,
+        "level": 1,
+        "gold_stars": 0
+    }
+}
