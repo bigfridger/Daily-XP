@@ -1,4 +1,4 @@
-# 💫 Daily XP — Gamify your life
+# Daily XP — Gamify your life
 
 Welcome to **XP Tracker**, a productivity app built with python around tkinter, that turns your real-life habits into experience points, levels, and progress — just like a video game! Whether you're working out, studying, practicing music, or just getting by, this app makes your growth visual, rewarding, and fun. Don't tell me you've never thought about flexing on other people.. All those gold stars you'll earn here are *perfect*
 
@@ -14,6 +14,9 @@ Whether you're training for an exam or just trying to be 1% better every day, th
 
 ---
 
+---
+
 ## 🚀 Installation
 
-EXECUTABLE:
+
+
